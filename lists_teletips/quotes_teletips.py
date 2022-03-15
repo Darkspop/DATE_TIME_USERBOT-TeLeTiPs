@@ -45,4 +45,8 @@ quotes_teletips = [
 "When words fail, music speaks.",
 "Embrace the glorious mess that you are.",
 "I have nothing to lose but something to gain."
+"I am owner of opgohil community."
+"Success comes from working hard."
+"Work hard, if you don't get the success, work more harder."
+"Opgohil"
 ]
